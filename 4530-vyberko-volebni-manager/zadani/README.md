@@ -5,15 +5,15 @@ Výběrové řízení na volebního manažera
 
 Ahoj!
 
-V pražském sdružení Pirátů hledáme **krajského manažera**, který bude mít na starosti administrativu a správu Pirátského centra celkem v rozsahu cca 20 hodin týdně (cca poloviční úvazek). Pokud sympatizuješ s Piráty, líbí se ti zásady průhledného hospodaření a chceš si trochu přivydělat, je tohle pro tebe ideální nabídka.
+U Pirátů hledáme **volebního managera**, který bude mít na starost řízení a provedení Pirátské volební kampaně do sněmovny celkem v rozsahu cca 20 hodin týdně (cca poloviční úvazek). Pokud sympatizuješ s Piráty, líbí se ti pirátské kampaně , je tohle pro tebe ideální nabídka.
 
-![Krajské sdružení Praha](https://redmine.pirati.cz/attachments/download/146/pirati-mezinarodni.jpg)
+![Pirátská kampanň](https://redmine.pirati.cz/attachments/download/146/pirati-mezinarodni.jpg)
 
-V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstruktivní a férové jednání. Tvým úkolem bude starat se o **byrokracii krajského sdružení a chod Pirátského centra** v Praze na Žižkově tak, abychom se my mohli soustředit na prosazování Pirátského programu. Tvým cílem bude, aby byla byrokracie dobře zdokumentovaná, rychlá, profesionální a vstřícná. 
+V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstruktivní a férové jednání. Tvým úkolem bude starat se o **byrokracii krajského sdružení a chod Pirátského centra**, abychom se my mohli soustředit na prosazování Pirátského programu. Tvým cílem bude, aby byla byrokracie dobře zdokumentovaná, rychlá, profesionální a vstřícná. 
 
 ## Poptávaná činnost
 
-**Úkoly krajského manažera** na regionální úrovni pro předsednictvo krajského sdružení:
+**Úkoly volebního manažera**:
 
 * správa členských přihlášek, 
 * správa žádostí o proplacení, 

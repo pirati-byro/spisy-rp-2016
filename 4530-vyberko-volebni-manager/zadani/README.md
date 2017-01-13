@@ -65,4 +65,4 @@ vedoucí mediálního odboru Pirátů
 ## Související odkazy
 
 * [Pravidla výběrového řízení](pravidla.md)
-* [Schválené usnesení](usneseni.md) 
+* [Schválená usnesení](usneseni.md) 

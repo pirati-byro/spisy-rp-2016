@@ -11,7 +11,7 @@ Pravidla výběrového řízení
 
    Kritérium | počet bodů
    --------- | ---------:
-   znalost programu | 10
+   znalost programu | 5
    zkušenosti s projektovým řízením | 30
    reference | 20
    osobní dojem | 20

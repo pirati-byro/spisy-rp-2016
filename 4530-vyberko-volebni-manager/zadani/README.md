@@ -9,36 +9,39 @@ U Pirátů hledáme volebního manažera, který bude **projektovým manažerem 
 
 ![Pirátská kampaň](https://redmine.pirati.cz/attachments/download/146/pirati-mezinarodni.jpg)
 
-V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstruktivní a férové jednání. Tvým úkolem bude starat se o **byrokracii krajského sdružení a chod Pirátského centra**, abychom se my mohli soustředit na prosazování Pirátského programu. Tvým cílem bude, aby byla byrokracie dobře zdokumentovaná, rychlá, profesionální a vstřícná. 
+Piráti za 7 let nabrali zpoustu zkušeností v tom jak dělat volební kampaň a víme, že nás tlačí bota v realizaci nápadů a jejich dotahování do konce, proto hledáme člověka který nám **pomůže kampaň kterou společně naplánujeme uvést v život**.
 
 ## Poptávaná činnost
 
 **Úkoly volebního manažera**:
 
-* řízení volebního týmu průběžně a na pravidelných setkáních,
-* uvádění v život volební strategie,
-* komunikace a spolupráce krajskými volebními štáby napříč republikou,
+* řízení členů volebního týmu průběžně a na pravidelných setkáních, a úkolování dalších dodavatelů,
+* realizace a provádění výběrových a poptávkových řízení pro Pirátskou kampaň,
+* uvádění volební strategie Pirátů v život,
+* komunikace a spolupráce s krajskými volebními štáby napříč republikou,
+* operativa volební kampaně,
 * vedení pravidelných zasedání volebního štábu,
 * účast na setkáních volebního výboru a provádění jeho usnesení,
 * vykazování své činnosti v systému redmine.
 
 ## Nabízíme
 
-* Smlouvu na dobu určitou s výpovědní lhůtou 2 měsíce s odměnou 36 000 Kč měsíčně
-* Bonus 36 000 za každý získaný mandát
+* Smlouvu na 7 měsíců se zkušební lhůtou 2 měsíce s odměnou 36 000 Kč měsíčně
+* Bonus 36 000 Kč za každý získaný mandát
 * Telefonní tarif s neomezeným voláním i daty
+* Spoluprácí s motivovanou partou lidí, co chce změnit českou politiku
 * Možnost podílet se na realizaci Pirátského programu
 * Asistenta k ruce placeného Pirátskou stranou (24 000 Kč / měsíčně), kterého si můžeš sám vybrat
-* Práci se zastupiteli, senátory a představiteli strany i širokou a rozmanitou členskou základnou
+* Unikátní zkušenost s poctivě a transparentně vedenou a financovanou volební kampaní
 * Seznámení s moderními technologiemi používanými při fungování Pirátské strany
 
 ## Požadujeme
 
 * Filosofické ztotožnění se s [Pirátským programem][program]
 * Schopnost používat [Pirátský redmine][redmine] a další technické systémy
-* Zkušenosti s vedením kampaně obdobného rozsahu
-* Časovou flexibilitu a schopnost rychle se dopravit do Pirátského centra
-* Komunikační dovednosti, svědomitost a slušnost
+* Zkušenosti s vedením projektu alespoň následujícího rozsahu: rozpočet 500 000 Kč, 5ti členný tým, doba práce na projektu 3 měsíce
+* Nástup nejpozději 1. dubna, dřívější nástup výhodou
+* Místo práce: Česká republika, Praha alespoň 3 dny v týdnu
 
 [program]: https://www.pirati.cz/program/start
 [redmine]: https://redmine.pirati.cz/
@@ -47,7 +50,7 @@ V našem krajském sdružení usilujeme o dobrou atmosféru, otevřené, konstru
 
 V nabídce nám prosím zašli svůj životopis, motivační dopis, reference a další materiály (abychom mohli posoudit tvoji spolehlivost a zkušenosti s obdobným typem práce). Pokud máš nedejbože záznam v trestním rejstříku, popiš ho a zdůvodni. Podrobnosti o výběrovém řízení si přečti v [pravidlech výběrového řízení](pravidla.md). Pokud máš zájem o upřesnění informací, neváhej se na mne obrátit emailem či telefonicky.
 
-Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md) s vykazováním v systémů [redmine][redmine].
+Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://www.pirati.cz/rules/ppu) s vykazováním v systémů [redmine][redmine].
 
 **Nabídku nám prosím zašli do ........... *(bude doplněno do 16 dnů od vyhlášení)*, následující den do 12:00 se ti ozvu ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <mikulas.ferejncik@pirati.cz>, kopii potom na <info@pirati.cz>.**
 

@@ -23,11 +23,11 @@ Pravidla výběrového řízení
 9. Zadavatel **uzavře smlouvu** s vítězem výběrového řízení. Rozhodne-li se tak zadavatel, může vedle vítěze přijmout postupně v pořadí i druhou či další nabídku, která nebyla vyřazena, ale vždy tak, aby míra plnění odpovídala pořadí ve výběrovém řízení. Odpadne-li vítěz, může zadavatel uzavřít smlouvu na základě další přijatelné nabídky v pořadí dle výsledků. Nejpozději tak může učinit do 1 roku od vyhlášení výsledků výběrového řízení.
 10. Vyplácení odměny volebnímu manžerovi není závislá na výkazem času [(§ 8 (1) PPÚ)](https://www.pirati.cz/rules/ppu#plneni_ukolu), ale vyplacení odměny je podmíněno odevzdáním výkazu práce v projektovém systému zadavatele.
 11. Výsledek výběrového řízení bude **vyhlášen** na internetovém fóru v tématu, kde bylo výběrové řízení oznámeno (viz výše) a dále všem uchazečům e-mailem sdělíme výsledek. Proti vyhlášení výsledku výběrového řízení lze podat stížnost kontrolní komisi strany ve lhůtě do 10 dnů od vyhlášení výsledku výběrového řízení.
-12. S manažerem vybraným asistentem volebn9ho managera bude uzavřen zadávací list za standartních podmínek [(Pravidla pro placené úkoly)](https://www.pirati.cz/rules/ppu#plneni_ukolu) s následujícími parametry: 
+12. S manažerem a vybraným asistentem volebního managera bude uzavřen zadávací list za standartních podmínek [(Pravidla pro placené úkoly)](https://www.pirati.cz/rules/ppu#plneni_ukolu) s následujícími parametry: 
  * Kontaktní osobou je manažer
- * Smluvním typem bude příkazní smlouva, případně dohoda o pracovní činnosti nebo dohoda o provedení práce
- * Trvání 7 měsíců, nejdéle do 31.10.
- * Časová náročnost 80 h/měsíčně
- * Odměna 16 000 Kč za vykázané hodiny a až 8 000 Kč úkolově za kvalitu
+ * Smluvním typem bude příkazní smlouva, případně smlouva na dobu určitou
+ * Trvání 8 měsíců, nejdéle do 30.11.
+ * Časová náročnost 40 h týdně
+ * Odměna 16 000 Kč za vykázané hodiny a až 8 000 Kč úkolově za kvalitu odvedené práce
  Vybraný asistent musí být hodnotící komístí označen za přijatelného podle obdobných [požadavků](https://github.com/pirati-byro/spisy-rp-2016/tree/master/4530-vyberko-volebni-manager/zadani#požadujeme), jako manažer.
-13. Výběrové řízení bereme vážně a rozhodně ho nechceme rušit nebo měnit jeho podmínky za běhu. Pokud to však bude třeba k nápravě dílčích nedostatků zadání, vyhrazujeme si právo jeho pravidla změnit, a pokud by odpadl náš zájem nebo najdeme v postupu vážné neodstranitelné vady, vyhrazujeme si právo ho zrušit. Takový úkon zveřejníme a neprodleně ho oznámíme všem uchazečům, kteří mu již zaslali nabídku.
+13. Výběrové řízení bereme vážně a rozhodně ho nechceme rušit nebo měnit jeho podmínky za běhu. Pokud to však bude třeba k nápravě dílčích nedostatků zadání, vyhrazujeme si právo jeho pravidla změnit, a pokud by odpadl náš zájem nebo najdeme v postupu vážné neodstranitelné vady, vyhrazujeme si právo ho zrušit. Takový úkon zveřejníme a neprodleně ho oznámíme všem uchazečům, kteří nám již zaslali nabídku.

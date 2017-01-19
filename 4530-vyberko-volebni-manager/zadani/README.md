@@ -9,7 +9,7 @@ U Pirátů hledáme volebního manažera, který bude **projektovým manažerem 
 
 ![Pirátská kampaň](https://redmine.pirati.cz/attachments/download/146/pirati-mezinarodni.jpg)
 
-Piráti za 7 let nabrali zpoustu zkušeností v tom jak dělat volební kampaň a víme, že nás tlačí bota v realizaci nápadů a jejich dotahování do konce, proto hledáme člověka který nám **pomůže kampaň kterou společně naplánujeme uvést v život**.
+Piráti za 7 let nabrali spoustu zkušeností v tom jak dělat volební kampaň a víme, že nás tlačí bota v realizaci nápadů a jejich dotahování do konce, proto hledáme člověka který nám **pomůže kampaň kterou společně naplánujeme uvést v život**.
 
 ## Poptávaná činnost
 
@@ -23,27 +23,32 @@ Piráti za 7 let nabrali zpoustu zkušeností v tom jak dělat volební kampaň 
 * vedení pravidelných zasedání volebního štábu,
 * účast na setkáních volebního výboru a provádění jeho usnesení,
 * vykazování své činnosti v systému redmine.
+* poskytnutí součinnosti pro analýzu volební kampaně
 
 ## Nabízíme
 
-* Smlouvu na 7 měsíců se zkušební lhůtou 2 měsíce s odměnou 36 000 Kč měsíčně
+* Smlouvu na 8 měsíců se zkušební lhůtou 2 měsíce s odměnou 36 000 Kč měsíčně
 * Bonus 36 000 Kč za každý získaný mandát
 * Telefonní tarif s neomezeným voláním i daty
 * Spoluprácí s motivovanou partou lidí, co chce změnit českou politiku
 * Možnost podílet se na realizaci Pirátského programu
-* Asistenta k ruce placeného Pirátskou stranou (24 000 Kč / měsíčně), kterého si můžeš sám vybrat
+* Asistenta k ruce placeného Pirátskou stranou (16 000 měsíčně základ, 8 000 měsíčně úkolová odměna), kterého si můžeš sám vybrat
 * Unikátní zkušenost s poctivě a transparentně vedenou a financovanou volební kampaní
 * Seznámení s moderními technologiemi používanými při fungování Pirátské strany
+* V případě spokojennosti možnost dlouhodobé spolupráce
 
 ## Požadujeme
 
 * Filosofické ztotožnění se s [Pirátským programem][program]
-* Schopnost používat [Pirátský redmine][redmine] a další technické systémy
+* Akceptování [Pirátského klíče][klic] jako základního komunikačního východiska
+* Schopnost používat uživatelsky [Pirátský redmine][redmine] a další technické systémy
 * Zkušenosti s vedením projektu alespoň následujícího rozsahu: rozpočet 500 000 Kč, 5ti členný tým, doba práce na projektu 3 měsíce
+* Psychickou odolnost
 * Nástup nejpozději 1. dubna, dřívější nástup výhodou
 * Místo práce: Česká republika, Praha alespoň 3 dny v týdnu
 
 [program]: https://www.pirati.cz/program/start
+[klic]: https://www.pirati.cz/pid/klic
 [redmine]: https://redmine.pirati.cz/
 
 ## Zasílání nabídek

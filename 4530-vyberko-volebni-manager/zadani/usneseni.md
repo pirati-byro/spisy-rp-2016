@@ -59,10 +59,8 @@ Republikové předsednictvo
 3. **souhlasí** se záměrem mimořádné odměny volebního manažera v případě zisku mandátů ve výši 36 000,- Kč za mandát,
 4. **souhlasí** s použitím výjimky z § 6 odst. (1) Pravidel hospodaření dle odst (2), na pozici asistenta volebního manažera, pokud bude hodnotící komisí shledán přijatelným,
 5. **ukládá** vedoucímu Mikulášovi Ferejnčíkovi předložit projekt republikovému výboru k projednání bezodkladně po schválení tohoto usnesení, a dále *pro případ schválení*:
-5. **jmenuje** hodnotící komisi ve složení Volební výbor,
+5. **jmenuje** hodnotící komisi ve složení: Volební výbor,
 6. **pověřuje** uzavřením smlouvy, podáváním žádostí o proplacení, kontrolou a dalšími úkony hospodáře týkajícími se projektu člena předsednictva Martina Šmídu, a to v rozsahu souhlasu podle bodu 1.
-
-*doladit provedení*
 
 #### Návrh usnesení republikového výboru
 

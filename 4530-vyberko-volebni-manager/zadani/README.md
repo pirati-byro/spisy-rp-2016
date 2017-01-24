@@ -5,7 +5,7 @@ Výběrové řízení na volebního manažera
 
 Ahoj!
 
-U Pirátů hledáme volebního manažera, který bude **projektovým manažerem volební kampaně** do poslanecké sněmovny 2017 a mít na starost řízení a provedení Pirátské volební kampaně celkem v rozsahu cca 40 hodin týdně (plný úvazek). Pokud sympatizuješ s Piráty, máš zkušenosti s řízením a produkcí kampaně, festivalu nebo třeba konference, je tohle pro tebe ideální nabídka.
+U Pirátů hledáme volebního manažera, který bude **projektovým manažerem volební kampaně** do poslanecké sněmovny 2017 a bude mít na starost řízení a provedení Pirátské volební kampaně celkem v rozsahu cca 40 hodin týdně (plný úvazek). Pokud sympatizuješ s Piráty, máš zkušenosti s řízením a produkcí kampaně, festivalu nebo třeba konference, je tohle pro tebe ideální nabídka.
 
 ![Pirátská kampaň](https://redmine.pirati.cz/attachments/download/146/pirati-mezinarodni.jpg)
 

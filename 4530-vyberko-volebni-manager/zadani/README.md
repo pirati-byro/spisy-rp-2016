@@ -5,11 +5,11 @@ Výběrové řízení na volebního manažera
 
 Ahoj!
 
-U Pirátů hledáme volebního manažera, který bude **projektovým manažerem volební kampaně** do poslanecké sněmovny 2017 a mít na starost řízení a provedení Pirátské volební kampaně celkem v rozsahu cca 40 hodin týdně (plný úvazek). Pokud sympatizuješ s Piráty, máš zkušenosti s řízením a produkcí kampaně, festivalu nebo třeba konference, je tohle pro tebe ideální nabídka.
+U Pirátů hledáme volebního manažera, který bude **projektovým manažerem volební kampaně** do poslanecké sněmovny 2017 a bude mít na starost řízení a provedení Pirátské volební kampaně celkem v rozsahu cca 40 hodin týdně (plný úvazek). Pokud sympatizuješ s Piráty, máš zkušenosti s řízením a produkcí kampaně, festivalu nebo třeba konference, je tohle pro tebe ideální nabídka.
 
 ![Pirátská kampaň](https://redmine.pirati.cz/attachments/download/146/pirati-mezinarodni.jpg)
 
-Piráti za 7 let nabrali spoustu zkušeností v tom jak dělat volební kampaň a víme, že nás tlačí bota v realizaci nápadů a jejich dotahování do konce, proto hledáme člověka který nám **pomůže kampaň kterou společně naplánujeme uvést v život**.
+Piráti za 7 let nabrali spoustu zkušeností v tom jak dělat volební kampaň a víme, že nás tlačí bota v realizaci nápadů a jejich dotahování do konce, proto hledáme člověka který nám **pomůže kampaň, kterou společně naplánujeme, uvést v život**.
 
 ## Poptávaná činnost
 
@@ -63,7 +63,7 @@ S pozdravem
 
 Mikuláš Ferjenčík  
 vedoucí mediálního odboru Pirátů  
-<mikulas.ferejncik@pirati.cz>, tel. 737 943 770
+<mikulas.ferjencik@pirati.cz>, tel. 737 943 770
 
 ----
 

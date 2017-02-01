@@ -24,9 +24,7 @@ Vážený pane starosto,
 
 jak jistě víte, mezi jeden z cílů Pirátské strany na úrovni jednotlivých obcí a případně jejich místních částí je zvyšování míry transparentnosti a dohledu nad působením místních zastupitelstev. Jsem proto velice rád, že je každé zasedání zastupitelstva hlavního města Prahy veřejně přenášeno na stránkách praha.eu. Rovněž považuji za úspěch, že na řadě městských částí jsou k dispozici i audiozáznamy z jednání místního zastupitelstva, či rady. Považuji rovněž za správné, že se tak děje i v případě zastupitelstva městské části Praha 18. 
 
-Píši Vám proto, že bych se rád připojil k iniciativě člena finančního výboru Zastupitelstva městské části Praha 18 za Pirátskou stranu, Ing. Jana Wagnera, aby byla zasedání finančního výboru živě přenášena (streamována) a nahrávána rovněž. Domnívám se, že by se tímto zlepšilo povědomí občanů o činnosti úřadu městské části, zvýšila by se tím možnost participace občanů na jeho fungování (tím, že by byli lépe informováni o činnosti svých zástupců) a v neposlední řadě by se MČ Praha 18 připojila k pozitivnímu trendu, který v celé České republice probíhá. 
-
-Rád bych se s Vámi spolu s Janem Wagnerem setkal a prodiskutoval možnosti, které má Městská část Praha 18 k dispozici k tomu, aby byl živý přenos z jednání realizován. 
+Píši Vám proto, abych jménem České pirátské strany podpořil iniciativu člena finančního výboru Zastupitelstva městské části Praha 18 za Pirátskou stranu, Ing. Jana Wagnera, aby byla zasedání finančního výboru živě přenášena (streamována) a nahrávána rovněž. Domnívám se, že by se tímto zlepšilo povědomí občanů o činnosti úřadu městské části, zvýšila by se tím možnost participace občanů na jeho fungování (tím, že by byli lépe informováni o činnosti svých zástupců) a v neposlední řadě by se MČ Praha 18 připojila k pozitivnímu trendu, který v celé České republice probíhá. 
 
 S pozdravem
 

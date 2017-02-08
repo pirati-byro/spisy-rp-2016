@@ -8,11 +8,11 @@ Shrnutí
 
 V rámci řešení kampaně navrhujeme najmout volebního manažera aby produkoval kampaň a řídil placený aparát strany a externí dodavatele.
 
-Předpokládaný rozsah práce činí 40 hodin týdně, v případě potřeby kampaně může být překročen. Při smluvní odměně 36 000 měsíčně jsou základní roční náklady činí 288 tis. Kč. Volební manažer bude odpovědný určenému členovy volebního výboru a v rámci své působnosti ho přiměřeně budou úkolovat i další členové volebního výboru (člen republikového předsednictva, členové republikového výboru, celostátní lídr, vedoucí mediálního odboru).
+Předpokládaný rozsah práce činí 40 hodin týdně, v případě potřeby kampaně může být překročen. Při smluvní odměně 36 000 měsíčně jsou základní roční náklady činí 288 tis. Kč. Volební manažer bude odpovědný určenému členovy volebního výboru a v rámci své působnosti ho přiměřeně budou úkolovat i další členové volebního výboru (člen republikového předsednictva, 2 členové republikového výboru, celostátní lídr, vedoucí mediálního odboru).
 
 Přílohy:
 
-* [Inzerát na krajského manažera](README.md)
+* [Inzerát na projektového manažera volební kampaně](README.md)
 * [Pravidla výběrového řízení](pravidla.md)
 * [Podmínky pro placené úkoly](https://www.pirati.cz/rules/ppu)
 

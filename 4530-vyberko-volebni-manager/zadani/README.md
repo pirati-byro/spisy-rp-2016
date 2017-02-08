@@ -35,7 +35,7 @@ Piráti za 7 let nabrali spoustu zkušeností v tom jak dělat volební kampaň 
 * Asistenta k ruce placeného Pirátskou stranou (16 000 měsíčně základ, 8 000 měsíčně úkolová odměna), kterého si můžeš sám vybrat
 * Unikátní zkušenost s poctivě a transparentně vedenou a financovanou volební kampaní
 * Seznámení s moderními technologiemi používanými při fungování Pirátské strany
-* V případě spokojennosti možnost dlouhodobé spolupráce
+* V případě spokojenosti možnost dlouhodobé spolupráce
 
 ## Požadujeme
 
@@ -55,9 +55,9 @@ Piráti za 7 let nabrali spoustu zkušeností v tom jak dělat volební kampaň 
 
 V nabídce nám prosím zašli svůj životopis, motivační dopis, reference a další materiály (abychom mohli posoudit tvoji spolehlivost a zkušenosti s obdobným typem práce). Pokud máš nedejbože záznam v trestním rejstříku, popiš ho a zdůvodni. Podrobnosti o výběrovém řízení si přečti v [pravidlech výběrového řízení](pravidla.md). Pokud máš zájem o upřesnění informací, neváhej se na mne obrátit emailem či telefonicky.
 
-Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance (DPP, DPČ) – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://www.pirati.cz/rules/ppu) s vykazováním v systémů [redmine][redmine].
+Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://www.pirati.cz/rules/ppu) s vykazováním v systémů [redmine][redmine].
 
-**Nabídku nám prosím zašli do ........... *(bude doplněno do 16 dnů od vyhlášení)*, následující den do 12:00 se ti ozvu ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <mikulas.ferejncik@pirati.cz>, kopii potom na <info@pirati.cz>.**
+**Nabídku nám prosím zašli do 24. února, 23:59, následující den do 17:00 se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <elizabet.kovaceva@pirati.cz> kopii potom na <mikulas.ferejncik@pirati.cz> a <vyberka@pirati.cz>.**
 
 S pozdravem 
 

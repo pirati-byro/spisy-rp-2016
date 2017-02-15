@@ -30,7 +30,7 @@ Uvedl jsem, že Váš úřad má v souladu s § 19g zákona č. 424/1991 Sb., o 
 
 Konstatuji, že jsem v zákonné třicetidenní lhůtě, kterou zákon č. 85/1990 Sb., o právu petičním, předpokládá, neobdržel žádnou odpověď. Telefonicky jsem se spojil s náměstkyni pro veřejnou správu, paní Štěpánkou Bergerovou z Ministerstva vnitra ve snaze se dozvědět, zda-li byl tento dotaz vyřešen, či nikoliv. Ta mi sdělila, že vzhledem k nedostatečným kapacitám nově zřízeného úřadu pro Vás nebylo možné můj dotaz v zákonné lhůtě vyřídit. Považuji takový důvod za nešťastný, na druhou stranu se domnívám, že Ministerstvo vnitra disponuje dostatečnými kapacitami k tomu, aby bylo možné žádost vyřídit zákonným způsobem. Proto také elektronická podatelna MVČR předala žádost právě paní náměstkyni pro veřejnou správu Bergerové. Neexistoval proto zákonný důvod pro to, aby žádost nebyla vyřízena.
 
-V souvislosti s výše uvedeným proto podávám v souladu s § 175 odst. 1 zákona č. 500/2004 Sb., správního řádu, stížnost proti postupu správního orgánu.
+V souvislosti s výše uvedeným proto podávám v souladu s § 175 odst. 1 zákona č. 500/2004 Sb., správního řádu (dále jen „SprŘ“), stížnost proti postupu správního orgánu. Žádám, abych byl v souladu s § 175 odst. 5 SprŘ, vyrozuměn v zákonné lhůtě 60 dnů.
 
 Prosím o zaslání Vaší odpovědi v elektronické podobě. Ke komunikaci tímto dále pověřuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Odpověď prosím zašlete do datové schránky b2i4r6j. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
 

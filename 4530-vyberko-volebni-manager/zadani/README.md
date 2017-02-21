@@ -57,7 +57,7 @@ V nabídce nám prosím zašli svůj životopis, motivační dopis, reference a 
 
 Poptávaná činnost může být dodána jako služba živnostníkem (na IČO) či můžeme na tuto činnost přijmout zaměstnance – v takovém případě zahrnuje výše avizovaná částka i všechny odvody na straně zadavatele, skutečná částka vyplacená zaměstnanci tedy bude nižší. Na zadání bude sepsán standardní zadávací list podle [podmínek pro placené úkoly](https://www.pirati.cz/rules/ppu) s vykazováním v systémů [redmine][redmine].
 
-**Nabídku nám prosím zašli do 24. února, 23:59, následující den do 17:00 se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <elizabet.kovaceva@pirati.cz> kopii potom na <mikulas.ferejncik@pirati.cz> a <vyberka@pirati.cz>.**
+**Nabídku nám prosím zašli do 24. února, 23:59, následující den do 17:00 se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu <elizabet.kovaceva@pirati.cz> kopii potom na <mikulas.ferjencik@pirati.cz> a <vyberka@pirati.cz>.**
 
 S pozdravem 
 

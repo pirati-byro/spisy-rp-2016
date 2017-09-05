@@ -21,7 +21,7 @@ your:
       -     předsedy PSP ČR
       -     na vědomí
       -     předsedům poslaneckých klubů
-      -     zastoupených v PSP
+      -     zastoupených v PSP ČR
    ds:      
 style:      letter
 reminder:   true

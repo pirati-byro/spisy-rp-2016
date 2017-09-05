@@ -31,6 +31,8 @@ Vážený pane předsedo,
 
 jménem České pirátské strany jako její místopředseda tímto žádám Poslaneckou sněmovnu Parlamentu České republiky o prošetření tzv. „kauzy OKD“. Kontaktuji Vás proto, že zástupci jednotlivých politických stran napříč politickým spektrem (s výjimkou Úsvitu) v minulosti zabránily jejímu prošetření. Jednotlivé hlasování o ustanovení vyšetřovací komise bylo zařazeno na takové jednání schůze, aby jej bylo možné mediálně zastínit vystoupením Andreje Babiše v kauze Čapí hnízdo. Důležitost celého případu spočívá v tom, že se jedná patrně o jednu z největších kauz v naší zemi s celkovou možnou škodou kolem 20 miliard korun.
 
+\newpage
+
 Žádám, aby Poslanecká sněmovna Parlamentu České republiky ustavila vyšetřovací komisi, která by vyšetřila následující pochybení:
 
 * Kdo zodpovídá za rozhodnutí vzdát se kontrolního balíku akcií v roce 1996 a proč Bohuslav Sobotka jako ministr financí nepodal za stát trestní oznámení, když to ještě nebylo promlčené a dnes Sobotka svádí vinu právě na tyto lidi.

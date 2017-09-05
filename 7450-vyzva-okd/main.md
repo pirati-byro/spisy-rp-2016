@@ -1,5 +1,5 @@
 ---
-title:      Výzva
+title:      Výzva k ustanovení vyšetřovací komise v kauze OKD
 author:
    name:    Jakub Michálek
    phone:   +420 608 213 119
@@ -9,7 +9,7 @@ our:
    name:    Republikové předsednictvo
    sign:    ZK Pha \#7450
 your:
-   role:    Silniční správní úřad
+   role:    
    name:    
       -     Poslanecká sněmovna Parlamentu České republiky
    address:
@@ -19,6 +19,9 @@ your:
       -     k rukám
       -     Jana Hamáčka
       -     předsedy PSP ČR
+      -     na vědomí
+      -     předsedům poslaneckých klubů
+      -     zastoupených v PSP
    ds:      
 style:      letter
 reminder:   true
@@ -26,7 +29,7 @@ reminder:   true
 
 Vážený pane předsedo,
 
-jménem České pirátské strany jako její místopředseda tímto žádám Poslaneckou sněmovnu Parlamentu České republiky o prošetření tzv. „kauzy OKD“. Kontaktuji Vás proto, že zástupci jednotlivých politických stran napříč politickým spektrem (s výjimkou Úsvitu) v minulosti zabránily prošetření této kauzy. Jednotlivé hlasování o ustanovení vyšetřovací komise bylo zařazeno na takové jednání schůze, aby jej bylo možné mediálně zastínit vystoupením Andreje Babiše v kauze Čapí hnízdo. Důležitost celého případu spočívá v tom, že se jedná patrně o jednu z největších kauz v naší zemi s celkovou možnou škodou kolem 20 miliard korun.
+jménem České pirátské strany jako její místopředseda tímto žádám Poslaneckou sněmovnu Parlamentu České republiky o prošetření tzv. „kauzy OKD“. Kontaktuji Vás proto, že zástupci jednotlivých politických stran napříč politickým spektrem (s výjimkou Úsvitu) v minulosti zabránily jejímu prošetření. Jednotlivé hlasování o ustanovení vyšetřovací komise bylo zařazeno na takové jednání schůze, aby jej bylo možné mediálně zastínit vystoupením Andreje Babiše v kauze Čapí hnízdo. Důležitost celého případu spočívá v tom, že se jedná patrně o jednu z největších kauz v naší zemi s celkovou možnou škodou kolem 20 miliard korun.
 
 Žádám, aby Poslanecká sněmovna Parlamentu České republiky ustavila vyšetřovací komisi, která by vyšetřila následující pochybení:
 

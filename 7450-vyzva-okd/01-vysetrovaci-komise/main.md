@@ -19,7 +19,7 @@ your:
       -     k rukám
       -     Jana Hamáčka
       -     předsedy PSP ČR
-      -     na vědomí
+      -     k rukám
       -     předsedům poslaneckých klubů
       -     zastoupených v PSP ČR
    ds:      

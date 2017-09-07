@@ -26,7 +26,7 @@ reminder:   true
 
 Vážený pane premiére,
 
-pobouřilo mně, že zatímco poslanci Babiš a Faltýnek byli na včerejším jednání Poslanecké sněmovny České republiky vydáni k trestnímu stíhání, v případě „kauzy OKD“, v rámci níž jste v nedávné době svědčil u soudu, se neděje vůbec nic.
+pobouřilo mě, že zatímco poslanci Babiš a Faltýnek byli na včerejším jednání Poslanecké sněmovny České republiky vydáni k trestnímu stíhání, v případě „kauzy OKD“, v rámci níž jste v nedávné době svědčil u soudu, se neděje vůbec nic.
 
 Považuji za skandální, že poslanci Poslanecké sněmovny Parlamentu České republiky, mezi které rovněž patříte, dlouhodobě brání prošetření této kauzy. Proti projednání vyšetřování kauzy OKD vystoupily všechny poslanecké kluby PSP ČR, s výjimkou Úsvitu. Samotné hlasování o ustanovení vyšetřovací komise bylo zařazeno na takové jednání schůze PSP ČR, aby jej bylo možné mediálně zastínit vystoupením Andreje Babiše v kauze Čapí hnízdo. 
 
